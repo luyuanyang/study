@@ -1,4 +1,4 @@
-package com.springDemo;
+package com.study;
 
 /**
  * Hello world!
